@@ -1,6 +1,6 @@
 {
   "name": "messager",
-  "description": "A messaging application made with Vue.js",
+  "description": "A messaging application made with Vue.js and Firebase",
   "version": "1.0.0",
   "author": "Chase Allen <ccallen001@gmail.com>",
   "private": true,
